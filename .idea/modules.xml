@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/3. Polimorfismo/3. Polimorfismo.iml" filepath="$PROJECT_DIR$/3. Polimorfismo/3. Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Abstracción/4.Abstracción.iml" filepath="$PROJECT_DIR$/4.Abstracción/4.Abstracción.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Estructura de datos/5.Estructura de datos.iml" filepath="$PROJECT_DIR$/5.Estructura de datos/5.Estructura de datos.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Primeros pasos/BatallaDeLosReinos/BatallaDeLosReinos.iml" filepath="$PROJECT_DIR$/1. Primeros pasos/BatallaDeLosReinos/BatallaDeLosReinos.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Primeros pasos/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/1. Primeros pasos/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Primeros pasos/Estudiantes/Estudiantes.iml" filepath="$PROJECT_DIR$/1. Primeros pasos/Estudiantes/Estudiantes.iml" />
