@@ -1,0 +1,27 @@
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
+Estudiar Java;Repasar Streams y Enums;ALTA;PENDIENTE
+Ir al gimnasio;Entrenar pierna;MEDIA;EN_PROCESO
+Leer un libro;Capítulo 3 de Clean Code;BAJA;COMPLETADO
