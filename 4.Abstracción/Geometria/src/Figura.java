@@ -21,3 +21,4 @@ public abstract class Figura {
         System.out.println("El calculo del area es: " + triangulo.calcularArea());
     }
 }
+
