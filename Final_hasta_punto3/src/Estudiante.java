@@ -1,20 +1,15 @@
 public class Estudiante {
-    private int id;
     private String nombre;
     private int edad;
-    private int curso;
+    private Curso curso;
 
 
-    public Estudiante(int id, String nombre, int edad, int curso) {
-        this.id = id;
+    public Estudiante( String nombre, int edad, Curso curso) {
         this.nombre = nombre;
         this.edad = edad;
         this.curso = curso;
     }
 
-    public int getId() {
-        return id;
-    }
 
     public String getNombre() {
         return nombre;
@@ -24,12 +19,12 @@ public class Estudiante {
         return edad;
     }
 
-    public int getCurso() {
+    public Curso getCurso() {
         return curso;
     }
 
     public String toString() {
-        return "ID: " + id + ", Nombre: " + nombre + ", Edad: " + edad + ", Curso: " + curso;
+        return " Nombre: " + nombre + ", Edad: " + edad + ", Curso: " + curso;
     }
 }
 
