@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Pantallas {
-    static Scanner sc = new Scanner(System.in);
+    static  Scanner sc = new Scanner(System.in);
     static int seleccion;
 
     //Pantalla inicial del programa
@@ -16,12 +16,30 @@ public class Pantallas {
             case 1:
                 pantallaAgregarLibros();
                 break;
+            case 2:
+                pantallaAgregarUsuario();
+                break;
+            case 3:
+                pantallaPrestarLibros();
+                break;
         }
     }
     public static void pantallaAgregarLibros(){
         saltoPagina();
         System.out.println("Sistema para agregar libros a la biblioteca: ");
         Biblioteca.agregarLibros();
+        saltoPagina();
+    }
+    public static void pantallaAgregarUsuario(){
+        saltoPagina();
+        System.out.println("Sistema para agregar usuario: ");
+        Biblioteca.registrarUsuarios();
+
+    }
+    public static void pantallaPrestarLibros(){
+     saltoPagina();
+     System.out.println("Sistema para prestar libros: ");
+     Biblioteca.prestarLibro();
     }
 
     public static void saltoPagina(){
